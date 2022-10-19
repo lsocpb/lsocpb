@@ -10,10 +10,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,git&theme=light)](https://skillicons.dev)
 
 ## 👨‍💻 Technologies that I want to learn
-[![My Skills](https://skillicons.dev/icons?i=django,spring,html,css&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=django,spring,html,css&theme=light)](https://skillicons.dev)
 
 ## Feel free to contact
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/lsocpb)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lukasssonik@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lsocpb)
 <!---
 lsocpb/lsocpb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
