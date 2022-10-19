@@ -1,8 +1,20 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-- 👀 I’m interested in way too many things..
-- 🌱 I’m currently learning 'Java' at the university and 'Python' on my own.
-- 📫 How to reach? Just mail me at lukasssonik@gmail.com!
 
+## 🚀 Few things about me
+
+🤯 My name is Łukasz, I'm currently studying "Computer Sciene and Econometrics" and will graduate in mid-2023.
+
+🌐 I'm in love with traveling around the world. I ussually travel around Europe (Belgium, Germany, Montenegro), but i also visited one country in Asia (Cyprus).
+
+## 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=java,python,git&theme=light)](https://skillicons.dev)
+
+## 👨‍💻 Technologies that I want to learn
+[![My Skills](https://skillicons.dev/icons?i=django,spring,html,css&theme=light)](https://skillicons.dev)
+
+## Feel free to contact
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/lsocpb)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lsocpb)
 <!---
 lsocpb/lsocpb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
