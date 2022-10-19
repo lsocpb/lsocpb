@@ -6,13 +6,16 @@
 
 🌐 I'm in love with traveling around the world. I ussually travel around Europe (Belgium, Germany, Montenegro), but i also visited one country in Asia (Cyprus).
 
+📚 In free time i like reading self-development books like 'Rich Dad Poor Dad' by Kiyosaki, 'How to think and grow rich' by Hill, 
+'How to get friends and influence others' by Carnegie.
+
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,git&theme=light)](https://skillicons.dev)
 
 ## 👨‍💻 Technologies that I want to learn
 [![Technologies](https://skillicons.dev/icons?i=django,spring,html,css&theme=light)](https://skillicons.dev)
 
-## Feel free to contact
+## 📝 Feel free to contact
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lukasssonik@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lsocpb)
 <!---
