@@ -4,7 +4,7 @@
 
 🤯 My name is Łukasz, I'm currently studying "Computer Sciene and Econometrics" and will graduate in mid-2024.
 
-🌐 I'm in love with traveling around the world. I ussually travel around Europe (Belgium, Germany, Montenegro), but i also visited one country in Asia (Cyprus).
+🌐 I'm in love with traveling around the world. I usually travel around Europe (Belgium, Germany, Montenegro), but i also visited one country in Asia (Cyprus).
 
 📚 In free time i like reading self-development books like 'Rich Dad Poor Dad' by Kiyosaki, 'How to think and grow rich' by Hill, 
 'How to get friends and influence others' by Carnegie.
