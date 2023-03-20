@@ -10,10 +10,10 @@
 'How to get friends and influence others' by Carnegie.
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,github,spring&theme=light)](https://skillicons.dev)
 
 ## 👨‍💻 Technologies that I want to learn
-[![Technologies](https://skillicons.dev/icons?i=django,spring,html,css&theme=light)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=django,html,css&theme=light)](https://skillicons.dev)
 
 ## 📝 Feel free to contact
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lukasssonik@gmail.com)
