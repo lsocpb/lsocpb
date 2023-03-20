@@ -10,7 +10,7 @@
 'How to get friends and influence others' by Carnegie.
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,github,springboot&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,github,spring&theme=light)](https://skillicons.dev)
 
 ## 👨‍💻 Technologies that I want to learn
 [![Technologies](https://skillicons.dev/icons?i=django,html,css&theme=light)](https://skillicons.dev)
