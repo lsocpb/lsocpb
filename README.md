@@ -2,7 +2,7 @@
 
 ## 🚀 Few things about me
 
-🤯 My name is Łukasz, I'm currently studying "Computer Science and Econometrics" and will graduate in 2025.
+🤯 My name is Łukasz, I'm a recent graduate with a Bachelor of Engineering in CS and Econometrics. Currently involved in my Masters Degree in Computer Science.
 
 🌐 I'm in love with traveling around the world. I usually travel around Europe (Belgium, Germany, Montenegro, Greece), but I also have visited one country in Asia (Cyprus).
 
