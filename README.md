@@ -11,7 +11,7 @@ I specialize in building scalable applications using **.NET** and **React**.
 **💻 Core Development (My Bread & Butter)**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,ts,js,html,css,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,ts,js,html,css,mysql&theme=light" />
 </a>
 
 **☁️ Cloud & Tools (What I use to ship & run code)**
