@@ -20,8 +20,6 @@ I specialize in building scalable applications using **.NET** and **React**.
   <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,linux,postman&theme=light" />
 </a>
 
-> *Experience Note: I work with the Azure ecosystem (AKS, Service Bus) and handle basic container operations.*
-
 ---
 
 ### 🎯 What I'm learning next
